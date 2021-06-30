@@ -14,7 +14,7 @@ const CONFIG = {
     title: 'Giữa mình và đồ ăn yến chọn cái nào',
     desc: 'Yến chọn thế nào mình vẫn yêu Yến ',
     btnYes: 'Tất nhiên là Nghĩa rồi <3',
-    btnNo: 'Chọn cả 2',
+    btnNo: 'Chọn cả 2 rồi',
     question:'Trên thế giới hơn 7 tỉ người mà sao Yến lại yêu mình ',
     btnReply: 'Gửi cho Nghĩa nè <3',
     reply: 'Tại Nghĩa đẹp trai đó mà',
