@@ -9,7 +9,7 @@ const CONFIG = {
     question:'Trên thế giới hơn 7 tỉ người mà sao Yến lại yêu mình ',
     btnReply: 'Gửi cho Nghĩa nè <3',
     reply: 'Tại Nghĩa đẹp trai đó mà',
-    mess: 'Mà Yến này ',
+    mess: 'Mà Yến này',
     messDesc: 'Yến sẽ mãi mãi là heo con của mình chứ ?.',
     btnAccept: 'Tất nhiên rồi <3',
  
